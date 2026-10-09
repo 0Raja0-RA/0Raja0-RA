@@ -24,8 +24,8 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0Raja0-RA/0Raja0-RA/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0Raja0-RA/0Raja0-RA/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0Raja0-RA/0Raja0-RA/output/github-snake-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0Raja0-RA/0Raja0-RA/output/github-snake.svg?v=2">
   <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/0Raja0-RA/0Raja0-RA/output/github-snake.svg">
 </picture>
 
